@@ -1,0 +1,5 @@
+modrinth_py.egg-info/
+.venv/
+__pycache__
+.pytest_cache
+.vscode/
